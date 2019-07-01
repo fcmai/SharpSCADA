@@ -118,12 +118,6 @@ ClientDriver、ModbusDriver、OPCDriver、FileDriver为各类通讯组件。
 * 功能扩展：如进一步处理数据、过程控制等。
 * 安全性：安全性是重中之重，目前做的很不够。
 
-Showcase
--------------
-![](https://github.com/GavinYellow/SharpSCADA/raw/master/Showcase/guage.png)
-![](https://github.com/GavinYellow/SharpSCADA/raw/master/Showcase/Receiving1.png)
-![](https://github.com/GavinYellow/SharpSCADA/raw/master/Showcase/scada1.png)
-
 个人主页
 -------------
 http://www.cnblogs.com/evilcat/
